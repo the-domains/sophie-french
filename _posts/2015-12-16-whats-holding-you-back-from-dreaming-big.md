@@ -1,27 +1,29 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: 'Think big to get big!'
-datePublished: '2015-12-16T22:34:08.182Z'
-dateModified: '2015-12-16T22:33:55.806Z'
-title: What’s Holding You Back From Dreaming Big?
+datePublished: '2015-12-16T22:44:32.094Z'
+dateModified: '2015-12-16T22:44:21.579Z'
+title: 'Think Big!'
 author: []
+sourcePath: _posts/2015-12-16-whats-holding-you-back-from-dreaming-big.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-16-whats-holding-you-back-from-dreaming-big.md
-published: true
-url: whats-holding-you-back-from-dreaming-big/index.html
-_type: Article
+_type: Blurb
 
 ---
+# Think Big!
+
 A couple of weeks ago I attended a Neuro Linguistic Programming (NLP) Practitioner Course, of which I spent every day being absolutely in awe and learning so much! (More about that soon!)
 Over the course, we talked a lot about creating metaphors for life -- ones that empower and inspire us. And this week I got to thinking about a fabulously empowering metaphor that encapsulates this incredible course for me and has essentially fuelled me to 'up my game'. 
 
@@ -31,3 +33,4 @@ A 3\* all-inclusive resort in Turkey for £500\.
 
 Yep, it was my IMAGINATION, and I didn't even think big about it, I didn't 'make up' a dream destination, didn't run wild with my vision or fantasise about an exotic paradise. And that's something that really struck a chord with me, because whilst others were pretend booking their 5 star months in the Caribbean, I was literally dreaming up 'standard'.
 And really, if I couldn't even IMAGINE booking more than a 3\* holiday, how could I possibly expect to strive for any more than that in my reality?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a023d53-4cb7-432c-8818-83eb06cff641.jpg)
