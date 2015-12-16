@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sophie French - Music]]></title>
+        <description><![CDATA[Sophie French - Music]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Dec 2015 22:57:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Think Big!]]></title>
+            <description><![CDATA[<article><h1>Think Big!</h1><p> You see, I started the week with an exercise where we were to imagine going into a travel agents and booking a holiday…
+
+Want to know where my IMAGINARY holiday was?
+
+A 3* all-inclusive resort in Turkey for £500. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9dcc14a3a5a8f554882fec5a8a19cda6ff6c205a.jpg"></article>]]></description>
+            <link>undefinedthink-big/index.html</link>
+            <guid isPermaLink="false">787742d1-2b89-4b9e-b392-81d966ea7d6f</guid>
+            <pubDate>Wed, 16 Dec 2015 22:57:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
