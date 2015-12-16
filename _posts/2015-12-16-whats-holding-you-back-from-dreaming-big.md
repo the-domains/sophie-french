@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'Think big to get big!'
-datePublished: '2015-12-16T22:57:17.419Z'
-dateModified: '2015-12-16T22:47:09.736Z'
+datePublished: '2015-12-16T23:09:38.213Z'
+dateModified: '2015-12-16T23:09:35.230Z'
 title: 'Think Big!'
 author: []
 sourcePath: _posts/2015-12-16-whats-holding-you-back-from-dreaming-big.md
@@ -22,8 +22,6 @@ url: think-big/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a023d53-4cb7-432c-8818-83eb06cff641.jpg)
-
 # Think Big!
 
 A couple of weeks ago I attended a Neuro Linguistic Programming (NLP) Practitioner Course, of which I spent every day being absolutely in awe and learning so much! (More about that soon!)
