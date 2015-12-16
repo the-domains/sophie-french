@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sophie French - Music]]></title>
         <description><![CDATA[Sophie French - Music]]></description>
-        <link>https://thegrid.ai/sophie-french/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 22:34:16 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/sophie-french/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Dec 2015 22:33:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What’s Holding You Back From Dreaming Big?]]></title>
             <description><![CDATA[<article><h1>What’s Holding You Back From Dreaming Big?</h1><p>Think big to get big!</p></article>]]></description>
-            <link>https://thegrid.ai/sophie-french/whats-holding-you-back-from-dreaming-big/index.html</link>
+            <link>undefinedwhats-holding-you-back-from-dreaming-big/index.html</link>
             <guid isPermaLink="false">787742d1-2b89-4b9e-b392-81d966ea7d6f</guid>
-            <pubDate>Wed, 16 Dec 2015 22:34:08 GMT</pubDate>
+            <pubDate>Wed, 16 Dec 2015 22:33:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
