@@ -1,7 +1,7 @@
 name: Sophie French
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.56353
+typography_spectrum: 0.80102
 title: Sophie French - Music
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.24565426190383732
-  lightness: 0.9177620785776526
-  saturation: 0.20792404329404235
+  brandStrength: 0.375
+  lightness: 0.1875
+  saturation: 0.9375
   rhythmicContrast: 0.5097075290977955
 purpose: []
